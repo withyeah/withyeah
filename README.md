@@ -1,4 +1,12 @@
 ### Hi there 👋
+### I'm Yerang.
+
+- 😄 Pronouns: She / Her
+- 🌱 I’m currently learning Django / iOS
+- 📫 How to reach me: ...
+  * Dev blog : https://yerang.kim
+  * About Me : https://yerang.kim/about
+  * Contact : yerang.dev@gmail.com
 
 <!--
 **withyeah/withyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
